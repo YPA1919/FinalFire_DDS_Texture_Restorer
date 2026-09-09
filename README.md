@@ -1,8 +1,8 @@
 # 最后一炮DDS贴图还原工具  FinalFire_DDS_Texture_Restorer
 
-“最后一炮”这个游戏的文件夹里有许多dds贴图不能被photoshop打开，即使photoshop已经装了dds插件，所以需要此工具还原一下才行
+“最后一炮”这个游戏的文件夹里有许多dds贴图不能被photoshop打开，即使photoshop已经装了dds插件，所以需要此工具还原一下才行，本来就能用photoshop打开的dds用这个工具会显示还原失败
 
-In the "FinalFire" game folder, a lot of DDS textures can't be opened in Photoshop, even though Photoshop has a DDS plugin installed, so you need this tool to restore them.
+In the "FinalFire" game folder, a lot of DDS textures can't be opened in Photoshop, even though Photoshop has a DDS plugin installed, so you need this tool to restore them, DDS files that can already be opened with Photoshop show 'restore failed' when using this tool.
 
 # 下载  Download
 
